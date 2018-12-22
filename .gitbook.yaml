@@ -1,6 +1,9 @@
+root:
+  docs/
+
 structure:
-  readme: README.md
-  summary: SUMMARY.md
+  readme: gitbook/HOME.md
+  summary: gitbook/SUMMARY.md
 ​
 redirects:
-  previous/page: README.md
+  previous/page: gitbook/HOME.md
