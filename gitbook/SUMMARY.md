@@ -1,6 +1,6 @@
 # Inhalt
 ​
-## Getting Started
+## Matlab Kennenlernen
 ​
-* [Home](README.md)
-    * [Erste Matlab Befehle](index.html)
+* [Erste Schritte](gitbook/HOME.md)
+    * [Einfache Graphen mit Matlab erstellen](gitbook/test.html)
