@@ -1,0 +1,10 @@
+{
+  "plugins": ["nbinteract"],
+  "pluginsConfig": {
+    "nbinteract": {
+      // Optional parameters. For example:
+      //
+      // "auto_run": false
+    }
+  }
+}
