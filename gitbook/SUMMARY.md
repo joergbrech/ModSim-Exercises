@@ -2,5 +2,5 @@
 ​
 ## Matlab Kennenlernen
 ​
-* [Erste Schritte](gitbook/HOME.md)
-    * [Einfache Graphen mit Matlab erstellen](gitbook/test.html)
+* [Erste Schritte](HOME.md)
+    * [Einfache Graphen mit Matlab erstellen](pages/test.html)
