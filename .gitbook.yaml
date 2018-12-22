@@ -1,9 +1,9 @@
 root:
-  gitbook/
+  ./gitbook/
 
 structure:
-  readme: gitbook/HOME.md
-  summary: gitbook/SUMMARY.md
+  readme: HOME.md
+  summary: SUMMARY.md
 
 redirects:
-  previous/page: gitbook/HOME.md
+  previous/page: HOME.md
