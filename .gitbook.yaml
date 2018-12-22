@@ -4,6 +4,6 @@ root:
 structure:
   readme: gitbook/HOME.md
   summary: gitbook/SUMMARY.md
-​
+
 redirects:
   previous/page: gitbook/HOME.md
